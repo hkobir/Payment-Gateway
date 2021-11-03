@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android Development/Projects/Payment-Gateway/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Android Development/Projects/Payment-Gateway/app/src/main/res/drawable/success_shape.xml" value="0.1326388888888889" />
+        <entry key="..\:/Android Development/Projects/Payment-Gateway/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Android Development/Projects/Payment-Gateway/app/src/main/res/layout/activity_transaction.xml" value="0.12" />
       </map>
     </option>
   </component>

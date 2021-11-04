@@ -1,2 +1,2 @@
 # Payment-Gateway
-Android application payment gateway in Bangladesh.
+Android application payment gateway in Bangladesh. (SSLcommerz)
